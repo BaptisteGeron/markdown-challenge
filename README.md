@@ -35,4 +35,4 @@ The best stories are the shortest ones.
 :D
 
 
-<< [Previous](https://github.com/StephaneGenet/AboutMe "Stephane Genet") || Baptiste Geron || [Next](https://github.com/AntoineGhysens/ "Antoine Ghysens") >>
+<< [Previous](https://github.com/aurore-ry/markdown-challenge "previous") || Baptiste Geron || [Next](https://github.com/BathshebaDeepijan/markdown-challenge "next") >>
