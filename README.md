@@ -1,6 +1,6 @@
 # Baptiste Geron
 
-*An inspirational quote in italics*
+*A little progress each day adds up to big results*
 
 ![alt text](id.jpg "")
 
@@ -12,27 +12,27 @@
 |Birthday:     | 01 August |
 | Favorite color:      | blue      |
 | Favorite food | pasta      |
-|  Pinneapple on pizza:   |   [❌] NO  |
+|  Pinneapple on pizza:   |   ❌ NO  |
 
 
 ## Hobbies
 
-* sports:
+* Sports:
   * climbing
   * cycling
-* tech
+* Tech
 
 ## You can always count on me when... 
 
-you need a german translation !
+you need a german translation! We never know...
 
 ## A funny story
 
-The best stories are the shortest ones.
+I know the guy who invented the "knock-knock" joke. I decerned him the "no-bell" price.
 
 ### TL;DR
 
-:D
+Always install a doorbell to avoid hearing bad jokes !!!
 
 
 << [Previous](https://github.com/aurore-ry/markdown-challenge "previous") || Baptiste Geron || [Next](https://github.com/BathshebaDeepijan/markdown-challenge "next") >>
